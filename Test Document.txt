@@ -1,0 +1,28 @@
+                                                                                       Project Document
+
+                                                                             https://demo.opencart.com/
+
+           *        Project Introduction
+           *        Review & Analyze the Requirement/Functionality     - SRS
+           *        Prepare Test Plan 
+           *        Create test scenario
+           *        Create test cases, Review, Requirement Treaceability Matrix
+           *        Test Environment Setup
+           *        Build Deployment
+           *        Test Execution
+           *        Bug reporting & tracking
+           *        Sanity testing, Re-Testing, Regression Testing
+           *        test Phase Sign off
+
+
+
+Ecommerce Application
+--------------------------------------------------
+
+Login to Application
+Search The Product
+Add product to wishlist
+Make Payment
+Return The Product
+
+We Test in this Only for FrontEnd/ UI - users/public access through internet (Opencart.com)
